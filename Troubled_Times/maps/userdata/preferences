@@ -1,0 +1,5 @@
+ping_timeout="0"
+scroll_threshold="10"
+show_haloes="yes"
+[history]
+[/history]
